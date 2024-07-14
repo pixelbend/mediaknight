@@ -9,5 +9,10 @@
   "author": {
     "name": "driftdev",
     "email": "92285161+driftdev@users.noreply.github.com"
+  },
+  "info": {
+    "productName": "AniRift",
+    "productVersion": "0.0.1",
+    "copyright": "Copyright © 2024"
   }
 }
