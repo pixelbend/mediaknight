@@ -1,3 +1,3 @@
 # Cartoonist
 
-A cartoon streaming and downloading application with intuitive and user-friendly UI.
+A media streaming and downloading application with intuitive and user-friendly UI.
